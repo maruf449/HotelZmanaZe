@@ -25,7 +25,7 @@ const Footer = () => {
             </div>
             <div className='flex items-center pt-4'>
               <BiMessageDetail />
-              <p className='ml-2'>codewithlari</p>
+              <p className='ml-2'>Zihadhasan</p>
             </div>
           </div>
 
